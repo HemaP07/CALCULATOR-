@@ -21,17 +21,22 @@ Multiple Themes
 🌙 Dark Theme
 💜 Purple Theme
 
+
 Responsive Design
 Clean and Modern User Interface
 Error Handling
+
 
 🛠️ Technologies Used
 HTML5
 CSS3
 JavaScript (ES6)
 
+
 🚀 Future Improvements
 Calculation History
 Memory Functions
 More Scientific Operations
-Theme Persistence using Local Storag
+Theme Persistence using Local Storage
+
+
